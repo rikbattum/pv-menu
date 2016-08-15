@@ -5,11 +5,11 @@
     "Anonymous <anonymous@example.com>"
   ],
   "description": "An element providing a solution to no problem in particular.",
-//  "keywords": [
-//    "web-component",
-//    "polymer",
-//    "seed"
-//  ],
+  "keywords": [
+    "web-component",
+    "polymer",
+    "seed"
+  ],
   "main": "pv-menu.html",
   "license": "http://polymer.github.io/LICENSE.txt",
   "homepage": "https://github.com/<USERNAME>/seed-element/",
